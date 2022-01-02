@@ -1,20 +1,14 @@
-# ujian-online-ci
+# Bank Soal FTI
 
-Aplikasi Ujian Online Menggunakan CodeIgniter
+Aplikasi Bank soal FTI Menggunakan CodeIgniter
 
 <h1>Catatan</h1>
 <p>Disarankan upgrade PHP ke versi terbaru (7.3 atau lebih tinggi)</p>
 
-<h1>Cara Install</h1>
-    Buat database dengan nama <kbd>ci_online_test</kbd>. Kemudian import database pada folder <kbd>sql</kbd>. Jangan lupa setting lagi file <kbd>config.php</kbd> nya. 
-    dan juga ubah date_default_timezone_set pada config.php sesuai dgn waktu daerah masing-masing.<br/>
-
-jika sudah mengikuti langkah diatas dengan benar seharusnya aplikasi sudah berjalan dengan baik. Pastikan pada console browser tidak terdapat error.
-
 <h3>User</h3>
 <ul>
 <li>Administrator <br/> Email: admin@admin.com <br/> Password : password </li>
-  
+  <li>Mahasiswa <br/> Email: camilafaizam@gmail.com <br/> Password : 1911523014 </li>
 </ul>
 
 Thanks to :
